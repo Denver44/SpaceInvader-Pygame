@@ -1,5 +1,4 @@
-# SpaceInvader-Pygame
-Created a game called SpaceInvader using Pygame module in python
+# SpaceInvaders-Pygame
 
 
 ![Pygame](<https://raw.githubusercontent.com/Denver44/SpaceInvader-Pygame/main/screenshots/Screenshot%20(50).png>) 
